@@ -1,0 +1,70 @@
+[
+  {
+    "question": "Who were the first people to arrive in Britain in what we call the Stone Age?",
+    "answers": [
+      {
+        "id": "r0",
+        "text": "Farmers",
+        "is_correct": false
+      },
+      {
+        "id": "r1",
+        "text": "Hunter-gatherers",
+        "is_correct": true
+      },
+      {
+        "id": "r2",
+        "text": "Warriors",
+        "is_correct": false
+      },
+      {
+        "id": "r3",
+        "text": "Pirates",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The first people to live in Britain were hunter-gatherers, in what we call the Stone Age."
+  },
+  {
+    "question": "When did Britain become permanently separated from the continent by the Channel?",
+    "answers": [
+      {
+        "id": "r0",
+        "text": "10,000 years ago",
+        "is_correct": true
+      },
+      {
+        "id": "r1",
+        "text": "50,000 years ago",
+        "is_correct": false
+      },
+      {
+        "id": "r2",
+        "text": "15,000 years ago",
+        "is_correct": false
+      },
+      {
+        "id": "r3",
+        "text": "18,000 years ago",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Britain only became permanently separated from the continent by the Channel about 10,000 years ago."
+  },
+  {
+    "question": "The Commonwealth has no power over its members and it cannot suspend their membership:",
+    "answers": [
+      {
+        "id": "r0",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "r1",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation": "The Commonwealth has no power over its members, although it can suspend membership."
+  }
+]
